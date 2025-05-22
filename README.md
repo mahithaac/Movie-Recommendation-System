@@ -3,12 +3,12 @@
 This project performs exploratory data analysis (EDA) and initial recommendation logic on the MovieLens 100K dataset (https://grouplens.org/datasets/movielens/100k/). It demonstrates basic data science skills like data preprocessing, visualization, and understanding user behavior.
 
 ## 📁 Project Structure
-- `project1_movieRating.ipynb` – Google Colab with full code
+- `project1_movieRating.ipynb` – Jupyter notebook with full code
 - `movies.dat`, `ratings.dat`, `users.dat` – Raw MovieLens dataset files
 
 ## 🔍 Project Goals
 - Loading and cleaning raw `.dat` files using pandas.
-- Perform Exploratory Data Aanalysis to explore:
+- Perform Exploratory Data Analysis to explore:
   - Most rated movies
   - Ratings distribution by age
   - Gender based Rating Distribution System
